@@ -1,0 +1,66 @@
+{
+    "name": "Liberty for Java\u2122",
+    "services": [],
+    "defaultMemory": 512,
+    "description": "Develop, deploy, and scale Java web apps with ease. IBM WebSphere Liberty Profile is a highly composable, ultra-fast, ultra-light profile of IBM WebSphere Application Server designed for the cloud.",
+    "type": "web",
+    "version": "2.x",
+    "smallIcon": "i_java_24.png",
+    "icon": "i_java_32.png",
+    "largeIcon": "i_java_50.png",
+    "featuredIcon": "i_java_64.png",
+    "executableFile": "target/JavaHelloWorldApp.war",
+    "system_tags": ["ibm_created"],
+    "runtime_id": "d70d427c-eb92-43a7-a3fa-67e9885ad044",
+    "categories": ["runtime"],
+    "metadata": {
+        "termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6621-01",
+        "bssRuntimeName": "liberty-for-java"
+    },    
+    "source": {
+        "scmType": "git",
+		"url" : "https://github.com/IBM-Bluemix/java-helloworld.git",
+		"appPath" : ""
+    },
+	"docURL": "/#starters/liberty/index.html#liberty",
+	"extra" : {
+		"i18n" : {
+			"de" : {
+				"name" : "Liberty for Java\u2122",
+				"description": "Java-Webanwendungen einfach und bequem entwickeln, implementieren und skalieren. Bei IBM WebSphere Liberty Profile handelt es sich um ein stark zusammensetzbares, extrem schnelles und extrem schlankes Profil von IBM WebSphere Application Server, das für die Cloud entworfen wurde."
+			},
+			"es" : {
+				"name" : "Liberty for Java\u2122",
+				"description": "Desarrolle, despliegue y escale fácilmente apps web Java. IBM WebSphere Liberty Profile es un perfil de fácil composición y ultra rápido y ligero de IBM WebSphere Application Server diseñado para la nube."
+			},
+			"fr" : {
+				"name" : "Liberty for Java\u2122",
+				"description": "Développez, déployez et mettez à l'échelle des applications Web Java facilement. IBM WebSphere Liberty Profile est un profil ultra-léger, ultra-rapide et hautement composable d'IBM WebSphere Application Server conçu pour le cloud."
+			},
+			"it" : {
+				"name" : "Liberty for Java\u2122",
+				"description": "Sviluppare, distribuire e ridimensionare le applicazioni Web Java con facilità. IBM WebSphere Liberty Profile è un profilo altamente componibile, ultra-veloce ed estremamente leggero di IBM WebSphere Application Server progettato per il cloud."
+			},
+			"ja" : {
+				"name" : "Liberty for Java\u2122",
+				"description": "Java Web アプリを簡単に開発、デプロイ、および拡張できます。 IBM WebSphere Liberty Profile は、クラウド用に設計された IBM WebSphere Application Server の、高度な構成が可能な超高速および超軽量のプロファイルです。"
+			},
+			"pt-BR" : {
+				"name" : "Liberty for Java\u2122",
+				"description": "Desenvolva, implemente e escale apps da web Java com facilidade. O IBM WebSphere Liberty Profile é um perfil ultrarrápido, ultraleve e altamente editável do IBM WebSphere Application Server projetado para a nuvem."
+			},
+			"zh-Hans" : {
+				"name" : "Liberty for Java\u2122",
+				"description": "轻松开发、部署和扩展 Java Web 应用程序。IBM WebSphere Liberty Profile 是一种为云设计的编写功能强大且超轻超快速的 IBM WebSphere Application Server 概要文件。"
+			},
+			"zh-Hant" : {
+				"name" : "Liberty for Java\u2122",
+				"description": "輕鬆地開發、部署及調整 Java Web 應用程式。IBM WebSphere Liberty Profile 是高度可編寫、超快速、超簡易的 IBM WebSphere Application Server 設定檔，它是針對雲端而設計。"
+			},
+			"ko": {
+				"name": "Liberty for Java\u2122",
+				"description": "Java 웹 앱을 쉽게 개발하고 배치하며 스케일링합니다. IBM WebSphere Liberty 프로파일은 클라우드용으로 디자인된 IBM WebSphere Application Server의 매우 빠르고, 쉽게 구성할 수 있는 초경량 프로파일입니다. "
+			}
+		}
+	}
+}
