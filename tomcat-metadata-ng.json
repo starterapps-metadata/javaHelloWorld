@@ -1,0 +1,28 @@
+{
+	"name": "Tomcat",
+	"services": [],
+	"defaultMemory": 256,
+	"description": "Develop, deploy, and scale Java web apps with ease.",
+	"type": "web",
+	"version": "1.0",
+	"smallIcon": "i_java_24.png",
+	"icon": "i_java_32.png",
+	"largeIcon": "i_java_50.png",
+	"featuredIcon": "i_java_64.png",
+	"executableFile": "target/JavaHelloWorldApp.war",
+	"system_tags": ["community"],
+	"buildpack": "java_buildpack",
+	"categories": ["runtime"],
+	"metadata": {
+		"termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6621-01"
+	},
+	"source": {
+		"scmType": "git",
+		"url": "https://github.com/IBM-Bluemix/java-helloworld.git",
+		"appPath": ""
+	},
+	"docURL": "/#runtimes/tomcat/index.html",
+	"extra": {
+		"i18n": {}
+	}
+}
