@@ -22,7 +22,7 @@
 		"url" : "https://github.com/IBM-Bluemix/java-helloworld.git",
 		"appPath" : ""
     },
-	"docURL": "/#starters/liberty/index.html#liberty",
+	"docURL": "/#runtimes/liberty/index.html#liberty",
 	"extra" : {
 		"i18n" : {
 			"de" : {
