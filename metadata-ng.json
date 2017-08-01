@@ -1,7 +1,7 @@
 {
     "name": "Liberty for Java\u2122",
     "services": [],
-    "defaultMemory": 512,
+    "defaultMemory": 256,
     "description": "Develop, deploy, and scale Java web apps with ease. IBM WebSphere Liberty Profile is a highly composable, ultra-fast, ultra-light profile of IBM WebSphere Application Server designed for the cloud.",
     "type": "web",
     "version": "3.x",
